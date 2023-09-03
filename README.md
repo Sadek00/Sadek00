@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadekur Rahman</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">Web developer from Bangladesh</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadek00" alt="sadek00" /></a> </p>
