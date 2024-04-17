@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadek00" alt="sadek00" /></a> </p>
 
-- 🔭 I’m currently working on [Global Software Architects](https://globalsoftwarearchitects.net/)
+- 🔭 I’m currently working on [Global Software Architects](http://globalsoftwarearchitects.net/)
 
 - 🌱 I’m currently learning **.NET 8 and Angular**
 
