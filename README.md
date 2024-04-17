@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadek00" alt="sadek00" /></a> </p>
 
-- 🔭 I’m currently working on [Tawoon](https://github.com/Sadek00/Tawoon-POS)
+- 🔭 I’m currently working on [Global Software Architecht](https://globalsoftwarearchitects.net/)
 
-- 🌱 I’m currently learning **.NET 8**
+- 🌱 I’m currently learning **.NET 8 and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sadek00](https://github.com/Sadek00)
 
